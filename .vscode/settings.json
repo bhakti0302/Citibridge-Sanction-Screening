@@ -1,0 +1,4 @@
+{
+  "githubPullRequests.remotes": ["upstream"],
+  "git.ignoreLimitWarning": true
+}
